@@ -99,6 +99,7 @@ const tranTxt = {
         Volume: '音量',
         Live: '直播',
         'Video info': '影片統計訊息',
+        'Test': 'Test'
     },
 };
 
